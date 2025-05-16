@@ -1,3 +1,4 @@
+
 if (game:GetService("CoreGui")):FindFirstChild("ShinraHub") and (game:GetService("CoreGui")):FindFirstChild("ScreenGui") then
 	(game:GetService("CoreGui")).NoxHub:Destroy();
 	(game:GetService("CoreGui")).ScreenGui:Destroy();
